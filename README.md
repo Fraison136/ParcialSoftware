@@ -1,0 +1,2 @@
+# ParcialSoftware
+Estudiar mucho
